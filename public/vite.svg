@@ -1,0 +1,6 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- BuildPK Logo - Simple and Professional -->
+  <rect width="32" height="32" rx="6" fill="#059669"/>
+  <path d="M8 12V20H10V16H12C13.6569 16 15 14.6569 15 13C15 11.3431 13.6569 10 12 10H8V12ZM10 12H12C12.5523 12 13 12.4477 13 13C13 13.5523 12.5523 14 12 14H10V12Z" fill="white"/>
+  <path d="M16 10V20H18V16L21 20H23.5L20 15.5L23.5 10H21L18 14V10H16Z" fill="white"/>
+</svg>

@@ -1,0 +1,24 @@
+[package]
+name = "depin-network"
+version = "0.1.0"
+description = "Pakistani DePIN Network Smart Contract"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "depin_network"
+
+[features]
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+cpi = ["no-entrypoint"]
+default = []
+
+[dependencies]
+anchor-lang = "0.29.0"
+anchor-spl = "0.29.0"
+solana-program = "~1.16.0"
+spl-token = "~3.5.0"
+spl-associated-token-account = "~1.1.0"
+clockwork-sdk = "2.0.0"
